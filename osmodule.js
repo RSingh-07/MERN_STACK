@@ -29,6 +29,6 @@ console.log("============== BYTE ORDER ================\n");
 
 
 // In JavaScript, template literals (used to insert variables in strings) must use backticks
-// ${...} only works inside backticks
+// ${...} only works inside backticks (` `)
 
 
