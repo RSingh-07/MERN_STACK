@@ -47,15 +47,6 @@ To run any file:
 
 ---
 
-## 📚 What’s Next
-
-- Practice built-in modules like fs, path, os
-- Learn to use npm and install external packages
-- Build a simple HTTP server using the `http` module
-- Learn and use Express.js for APIs and routing
-
----
-
 ## 🙋‍♀️ About Me
 
 I'm Riya Singh, a CSE undergraduate passionate about backend and full-stack web development. This Node.js folder is my first step into the MERN Stack journey. Stay tuned as I update this repository with more concepts and projects.
