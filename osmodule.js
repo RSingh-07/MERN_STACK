@@ -32,9 +32,3 @@ console.log("============== BYTE ORDER ================\n");
 // ${...} only works inside backticks
 
 
-//output:  7229952000 ~7.22 GB RAM is free right now in my system
-
-// 7179538432
-// C:\Users\Riya Singh
-// Riya-PC
-// Free Memory: 6.69 GB
